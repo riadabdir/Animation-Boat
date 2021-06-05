@@ -74,3 +74,8 @@
         transform: translateX(500px);
     }
 }
+
+.line-one{
+    text-align: center;
+    padding: 20px 10px;
+}
